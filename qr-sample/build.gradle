@@ -15,7 +15,7 @@ publish {
     artifactId = artifactProjectID
     publishVersion = publishVersionID
     desc = 'A sample of Qr Library'
-    website = 'https://github.com/panzhiev/qr_sample'
+    website = 'https://github.com/panzhiev/NbuQRExample'
 }
 
 android {
